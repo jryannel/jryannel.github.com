@@ -6,7 +6,9 @@ tagline: Qt Snippets
 
 {% include JB/setup %}
 
-Coming soon a website about Qt Quick snippets.
+Coming soon ...
+
+A website about Qt Quick snippets.
 
 <ul class="posts">
   {% for post in site.posts %}
